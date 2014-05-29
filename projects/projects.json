@@ -2,6 +2,20 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Waffle.io",
+      "thumb": "waffleio/thumb.png",
+      "desc": "GitHub-powered work tracking. Waffle listens to the cues in your process to update your work status automatically",
+      "url": "https://www.waffle.io",
+      "submitter": "Dennis Johnson",
+      "submissionDate": "2014-05-29",
+      "tags": [
+        "Production",
+        "Bootstrap",
+        "Productivity",
+        "GitHub"
+      ]
+    },
+    {
       "name": "Redbeacon Experts",
       "thumb": "redbeacon-experts/thumb.png",
       "desc": "A Q&A site for home improvement questions. Get free home advice from Redbeacon experts within 24 hours.",
